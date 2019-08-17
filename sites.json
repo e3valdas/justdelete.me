@@ -3496,6 +3496,15 @@
             "netvibes.com"
         ]
     },
+    
+        {
+        "name": "Nexus Mods",
+        "url": "https://www.nexusmods.com/",
+        "difficulty": "easy",
+        "domains": [
+            "nexusmods.com"
+        ]
+    },
 
     {
         "name": "New Relic",
