@@ -5388,6 +5388,15 @@
             "whosay.com"
         ]
     },
+    
+    {
+        "name": "Windscribe",
+        "url": "https://windscribe.com/cancel/account",
+        "difficulty": "easy",
+        "domains": [
+            "windscribe.com"
+        ]
+    },
 
     {
         "meta": "popular",
